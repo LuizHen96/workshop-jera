@@ -1,2 +1,1 @@
-# workshop-jera
-This is a project with i am using to learn
+# This is a project with i am using to learn
